@@ -47,7 +47,8 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * chenqian UUID
+ * chenqian UUI
+ * chenqian 2017年12月17日00:31:20
  */
 public class MainActivity extends Activity implements SensorEventListener, View.OnClickListener {
 
